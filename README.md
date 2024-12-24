@@ -23,3 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildubey-23&" alt="nikhildubey-23" /></p>
 
+
+<img src="https://raw.githubusercontent.com/nikhildubey-23/nikhildubey-23/output/snake.svg" alt="Snake animation" />
+
+###
